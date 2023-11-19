@@ -1,7 +1,7 @@
 # Project-1
-# importing libraries
-# Load the dataset
-# Data Preprocessing
-# Run the models
+Importing libraries
+Load the dataset
+Data Preprocessing
+Run the models
 
 
